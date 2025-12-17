@@ -14,7 +14,7 @@ This plugin allows to tell the game which classes may be selected to be rendered
 
 When a player disguises as a Spy, this player's movement speed remains unchanged. However, if the game picks a mask of a slower class, enemies can spot the dissonance between player's actual speed and the speed a friendly Spy disguised as the class from the mask would have. This is especially easy to notice if the class that appears on the mask is Soldier or Heavy Weapons Guy - these masks are an obvious giveaway of the disguise which player have neither control over nor information about. This plugin may be used to forbid the masks of slower classes from being selected.
 
-###Console variables
+### Console variables
 
 ```
 "sm_spymask_plugin_enabled" = "1" min. 0.000000 max. 1.000000
